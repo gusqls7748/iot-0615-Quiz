@@ -60,6 +60,9 @@
 
     - CefSharp을 이용한 하이브리드(WPF + 웹 기술) 앱 개발 경험.
 
+#### 메인 목록 화면
 ![alt text](main.png)
 
+
+#### 상세 정보 및 지도 화면
 ![alt text](sub.png)
