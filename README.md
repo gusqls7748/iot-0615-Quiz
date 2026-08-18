@@ -6,7 +6,7 @@
 
 - 날짜: 2026년 6월 15일
 
-- 기술 스택: .NET 6/8, WPF (Windows Presentation Foundation), MahApps.Metro (UI 프레임워크), CefSharp (지도 표시), Newtonsoft.Json (데이터 파싱)
+- 기술 스택: .NET 10, WPF (Windows Presentation Foundation), MahApps.Metro (UI 프레임워크), CefSharp (지도 표시), Newtonsoft.Json (데이터 파싱)
 
 - 목표: 부산광역시 공공데이터 API를 연동하여 맛집 데이터를 시각화하고 상세 정보를 제공하는 데스크탑 앱 개발
 
